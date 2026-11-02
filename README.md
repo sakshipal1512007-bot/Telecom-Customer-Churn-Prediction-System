@@ -153,13 +153,12 @@ Implemented:
 ## 📸 Application Screenshots
 
 ### Dashboard
-
-![Dashboard](DASHBOARD 1.jpeg)
+(DASHBOARD 1.jpeg)
 (DASHBOARD 2.jpeg)
 
 ### Prediction App
 
-![App](Screenshot 2026-11-02 192452.png)
+(Screenshot 2026-11-02 192452.png)
 
 ---
 
