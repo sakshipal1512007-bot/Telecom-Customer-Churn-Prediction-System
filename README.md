@@ -1,4 +1,5 @@
-<img width="245" height="2268" alt="image" src="https://github.com/user-attachments/assets/e169ebea-a459-4333-8678-3ddfa140ff05" />
+📱 Telecom Customer Churn Intelligence Platform
+
 A Machine Learning-based web application that predicts customer churn in the telecom industry using advanced data preprocessing, feature engineering, predictive modeling, and interactive analytics.
 
 🚀 Project Overview
