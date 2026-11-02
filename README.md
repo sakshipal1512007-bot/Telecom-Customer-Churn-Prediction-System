@@ -154,7 +154,8 @@ Implemented:
 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](DASHBOARD 1.jpeg)
+(DASHBOARD 2.jpeg)
 
 ### Prediction App
 
