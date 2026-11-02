@@ -159,7 +159,7 @@ Implemented:
 
 ### Prediction App
 
-![App](images/app_screenshot.png)
+![App](Screenshot 2026-11-02 192452.png)
 
 ---
 
